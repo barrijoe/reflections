@@ -5,3 +5,7 @@ For instance, when you are part of a team working together on the same project, 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
  To make logical units be updated. 
  Make visible to other people stable versions
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Branch are applied on a local repository in order to keep different versions. Clones are a local copy of a repository either local or remore. 
+And finally, forks are clones within GitHub
